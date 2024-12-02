@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0058-length-of-last-word) |
 ## Array
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0001-two-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
