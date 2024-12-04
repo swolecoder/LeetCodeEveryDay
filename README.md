@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0049-group-anagrams) |
+| [0118-pascals-triangle](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0049-group-anagrams) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
