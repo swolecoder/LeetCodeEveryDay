@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0205-isomorphic-strings) |
+| [0344-reverse-string](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0344-reverse-string) |
 | [0965-unique-email-addresses](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0965-unique-email-addresses) |
 | [1894-merge-strings-alternately](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1894-merge-strings-alternately) |
 ## Array
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
