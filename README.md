@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0724-find-pivot-index) |
+| [0941-sort-array-by-parity](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0941-sort-array-by-parity) |
 | [0965-unique-email-addresses](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0965-unique-email-addresses) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0455-assign-cookies) |
+| [0941-sort-array-by-parity](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0941-sort-array-by-parity) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Dynamic Programming
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0455-assign-cookies) |
+| [0941-sort-array-by-parity](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Greedy
