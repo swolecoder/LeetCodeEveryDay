@@ -1,40 +1,35 @@
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
-
-        if(strs.empty()){
+        if(strs.size() == 0){
             return "";
         }
-        int min_length = strs[0].length();
-        string ans= "";
 
-        //find the minlengfth
+        int min = strs[0].size();
+
         for(auto& str: strs){
-            min_length = std::min(min_length, (int)str.length());
+            min = std::min(min,(int)str.size());
         }
-        cout <<min_length<<endl;
+        string res = "";
 
-        for(int i =0; i < min_length; i++){
-            char match = strs[0][i];
-            bool check = true;
+        for(int i =0; i < min; i++){
+            bool match = true;
+            char check = strs[0][i];
 
-            for(auto& str: strs){
-                if(match != str[i]){
-                    check = false;
+            for(auto str: strs){
+                if(str[i] != check){
+                    match = false;
                     break;
                 }
             }
-            if(check){
-                ans += match;
+
+            if(match){
+                    res += check;
             }else{
-                break;
+                    break;
             }
         }
-
-
-
-
-        return ans;
+        return res;
         
     }
 };
