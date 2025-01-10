@@ -2,29 +2,26 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
+        
+        int l = 0;
+        int r = s.size();
 
-        int left =0;
-        int right =s.length()-1;
-        while(left < right){
+        while(l < r){
 
-            while(left < right && !isalnum(s[left])){
-                left++;
+            while(l < r && !isalnum(s[l])){
+                l++;
             }
-            while(left < right && !isalnum(s[right])){
-                right--;
-
+            while(l < r && !isalnum(s[r])){
+                r--;
             }
 
-            if(tolower(s[left]) != tolower(s[right])){
+            if(std::tolower(s[l]) != std::tolower(s[r])){
                 return false;
             }
-
-            left++;
-            right--;
+            l++;
+            r--;
         }
 
-
         return true;
-        
     }
 };
