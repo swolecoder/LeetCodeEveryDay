@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0941-sort-array-by-parity) |
 | [0965-unique-email-addresses](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0965-unique-email-addresses) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0441-arranging-coins) |
+| [0729-my-calendar-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0792-binary-search) |
 ## Interactive
 |  |
@@ -145,4 +147,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0367-valid-perfect-square](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0441-arranging-coins) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
