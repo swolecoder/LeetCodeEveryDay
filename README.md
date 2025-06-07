@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0455-assign-cookies) |
@@ -115,10 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0724-find-pivot-index) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0209-minimum-size-subarray-sum) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Simulation
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0441-arranging-coins) |
