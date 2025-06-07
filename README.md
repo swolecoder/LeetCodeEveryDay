@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0941-sort-array-by-parity) |
 | [0965-unique-email-addresses](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0965-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1019-squares-of-a-sorted-array) |
+| [1184-car-pooling](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1184-car-pooling) |
 | [2058-concatenation-of-array](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2058-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1019-squares-of-a-sorted-array) |
+| [1184-car-pooling](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1184-car-pooling) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Dynamic Programming
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0724-find-pivot-index) |
+| [1184-car-pooling](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1184-car-pooling) |
 ## Sliding Window
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0682-baseball-game) |
+| [1184-car-pooling](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1184-car-pooling) |
 | [2058-concatenation-of-array](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -166,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0729-my-calendar-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1184-car-pooling](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1184-car-pooling) |
 <!---LeetCode Topics End-->
