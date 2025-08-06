@@ -21,7 +21,6 @@ class Codec:
                 i +=1
             foundL = s[j:i]
             foundS = s[i+1: i+1 + int(foundL)]
-            print(foundL, foundS)
             ans.append(foundS)
             i += int(foundL) + 1
         return ans
