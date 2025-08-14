@@ -180,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1184-car-pooling) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
