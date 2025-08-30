@@ -198,12 +198,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0098-validate-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0098-validate-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -215,9 +217,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0098-validate-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
