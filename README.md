@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0792-binary-search) |
+| [0917-boats-to-save-people](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0941-sort-array-by-parity) |
 | [0965-unique-email-addresses](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0965-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1019-squares-of-a-sorted-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0455-assign-cookies) |
+| [0917-boats-to-save-people](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1184-car-pooling) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0455-assign-cookies) |
+| [0917-boats-to-save-people](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1894-merge-strings-alternately) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0605-can-place-flowers) |
+| [0917-boats-to-save-people](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0917-boats-to-save-people) |
 ## Divide and Conquer
 |  |
 | ------- |
