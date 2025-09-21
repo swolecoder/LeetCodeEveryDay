@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0729-my-calendar-i) |
+| [0739-daily-temperatures](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0941-sort-array-by-parity) |
@@ -125,10 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
 | ------- |
