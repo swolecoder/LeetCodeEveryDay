@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0739-daily-temperatures) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1544-count-good-nodes-in-binary-tree) |
