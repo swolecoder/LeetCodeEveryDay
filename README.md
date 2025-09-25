@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0682-baseball-game) |
