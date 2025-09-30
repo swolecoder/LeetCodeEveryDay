@@ -4,13 +4,34 @@ class Solution:
 
 
         for email in emails:
-            local, domian = email.split("@")
-            local = local.split("+")
-            print(local)
 
-            uniqueEmail = local[0].replace(".", "")
-            print(uniqueEmail,domian)
+            res = ""
+            domain  = ""
+            seenPlus = False
+            seenAt = False
 
-            seen.add((uniqueEmail,domian))
+            for j in range(len(email)):
+
+                if email[j]  == "@": seenAt = True
+
+                if email[j] == "+": seenPlus = True
+
+                if not seenPlus and not seenAt and email[j] != "." and email[j] != "+":
+                    res += email[j]
+                
+
+
+                
+
+                if seenAt:
+                    domain = email[j +1 :]
+                    break
+            
+
+            print(domain, res)
+            seen.add((res, domain))
 
         return len(seen)
+
+        
+        
