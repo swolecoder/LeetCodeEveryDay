@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2727-number-of-senior-citizens](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/3379-score-of-a-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Array
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0496-next-greater-element-i) |
 | [0965-unique-email-addresses](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0965-unique-email-addresses) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Trie
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0169-majority-element) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
