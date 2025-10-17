@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0965-unique-email-addresses) |
 | [1894-merge-strings-alternately](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1894-merge-strings-alternately) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0917-boats-to-save-people) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0739-daily-temperatures) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
