@@ -1,26 +1,23 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        count = {}
+
+        map = defaultdict(int)
 
         for num in nums:
-            count[num] = 1 + count.get(num,0)
+            map[num] +=1
         
-        arr = []
-        print(count)
+        h = [(v, key) for key, v in map.items()]
+        # print(h)
+        heapq.heapify(h)
 
-        for val in count.keys():
-            arr.append((count[val], val))
-        
-        print(arr)
-        arr.sort()
+        while len(h) > k:
+            heapq.heappop(h)
+    
 
-        ans = []
-        print("Ashish")
-        print(arr)
+        print(h)
 
-        while len(arr) > 0 and k >0:
-            ans.append(arr[-1][1])
-            arr.pop()
-            k -=1
-            print(k)
+        ans = [num for (freq, num) in h]
+
         return ans
+
+        
