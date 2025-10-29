@@ -1,15 +1,16 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        map = defaultdict(list)
+        
+        map = {}
+        
 
         for str in strs:
-            data = [0] * 26
+            data = sorted(str)
+            found = ''.join(data)
 
-            for ch in str:
-                data[ord(ch) - ord('a')] +=1
-            map[tuple(data)].append(str)
+            if found not in map:
+                map[found] = []
+            map[found].append(str)
+
+        print(map)
         return list(map.values())
-        #     data = ''.join(sorted(str))
-
-        #     map[data].append(str)
-        # return list(map.values())     
