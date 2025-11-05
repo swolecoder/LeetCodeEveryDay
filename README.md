@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0118-pascals-triangle) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0169-majority-element) |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
