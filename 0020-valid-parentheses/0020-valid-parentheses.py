@@ -1,24 +1,26 @@
 class Solution:
     def isValid(self, s: str) -> bool:
+        stack =[]
 
-        stack = []
-        openToClose = {
+        map = {
             "(":")",
             "[":"]",
             "{":"}"
         }
 
-        for ch in s:
-            if ch in openToClose:
-                stack.append(ch)
+
+        for o in s:
+
+            if o in map:
+                stack.append(o)
             else:
 
                 if not stack:
                     return False
                 
-                lastSeen = stack.pop()
-
-                if openToClose[lastSeen] != ch:
+                lastData = stack.pop()
+                if map[lastData] != o:
                     return False
         return len(stack) == 0
+        
         
