@@ -7,23 +7,29 @@
 class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
 
-        def helper(node): 
-            if not node:
-                return 0,True
-            
-            hL,checkerL = helper(node.left)
-            hR, checkerR = helper(node.right)
-            
-            if not checkerL or not checkerR:
-                return -1, False
 
-            if abs(hL - hR) > 1:
-                return -1,  False
+        def dfs(root):
+            if not root:
+                return 0
             
 
-            return max(hL, hR) + 1, True
-        return helper(root)[1]
+            left = dfs(root.left)
+
+            if left == -1:
+                return -1
+
+            right = dfs(root.right)
+
+            if right == -1:
+                return -1
 
 
+            if abs(left -right) > 1:
+                return -1
+
+
+            return 1 + max(left,right)
+
+        return  False if dfs(root) == -1 else True
 
         
