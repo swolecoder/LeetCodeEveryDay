@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0402-remove-k-digits) |
+| [0408-valid-word-abbreviation](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0408-valid-word-abbreviation) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0965-unique-email-addresses) |
 | [1894-merge-strings-alternately](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1894-merge-strings-alternately) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0344-reverse-string) |
+| [0408-valid-word-abbreviation](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0408-valid-word-abbreviation) |
 | [0455-assign-cookies](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0941-sort-array-by-parity) |
