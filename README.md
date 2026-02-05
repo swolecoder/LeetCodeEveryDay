@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2058-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0496-next-greater-element-i) |
 | [0965-unique-email-addresses](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0965-unique-email-addresses) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Trie
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Greedy
 |  |
 | ------- |
