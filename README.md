@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1184-car-pooling) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1929-concatenation-of-array](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1929-concatenation-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2058-concatenation-of-array) |
