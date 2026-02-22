@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0739-daily-temperatures) |
+| [0760-find-anagram-mappings](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0760-find-anagram-mappings) |
 | [0792-binary-search](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0917-boats-to-save-people) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0496-next-greater-element-i) |
+| [0760-find-anagram-mappings](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0760-find-anagram-mappings) |
 | [0965-unique-email-addresses](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0965-unique-email-addresses) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
