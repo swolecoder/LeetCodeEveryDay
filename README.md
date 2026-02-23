@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0402-remove-k-digits) |
 | [0408-valid-word-abbreviation](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0408-valid-word-abbreviation) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0734-sentence-similarity](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0734-sentence-similarity) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0965-unique-email-addresses) |
 | [1894-merge-strings-alternately](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/1894-merge-strings-alternately) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0729-my-calendar-i) |
+| [0734-sentence-similarity](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0734-sentence-similarity) |
 | [0739-daily-temperatures](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0739-daily-temperatures) |
 | [0760-find-anagram-mappings](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0760-find-anagram-mappings) |
 | [0792-binary-search](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0792-binary-search) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0496-next-greater-element-i) |
+| [0734-sentence-similarity](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0734-sentence-similarity) |
 | [0760-find-anagram-mappings](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0760-find-anagram-mappings) |
 | [0965-unique-email-addresses](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/0965-unique-email-addresses) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/swolecoder/LeetCodeEveryDay/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
